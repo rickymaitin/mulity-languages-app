@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meertalige toepassing</string>
+    <string name="welcome">welkom</string>
+    <string name="email">e-pos</string>
+    <string name="password">wagwoord</string>
+    <string name="login">teken aan</string>
+    <string name="signup">Het jy ook nie 'n rekening nie? Teken aan</string>
+    <string name="changelang">Verander taal</string>
+</resources>

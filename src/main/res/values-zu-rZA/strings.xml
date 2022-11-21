@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uhlelo lokusebenza lwezilimi eziningi</string>
+    <string name="welcome">wamukelekile</string>
+    <string name="email">i-imeyili</string>
+    <string name="password">Piphasiwedi</string>
+    <string name="login">Ngena ngemvume</string>
+    <string name="signup">Awunayo futhi i-akhawunti? Bhalisela</string>
+    <string name="changelang">Shintsha Ulimi</string>
+</resources>
